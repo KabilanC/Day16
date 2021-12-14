@@ -1,0 +1,37 @@
+.container-fluid {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+    margin-top: 30px;
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.row {
+    width: 900px;
+    height: 380px;
+    margin-left: 35px;
+    margin-top: 20px;
+    border: 1px solid black;
+    
+}
+
+.tiledBackground {
+    background-image: url(Image.jpg);
+    background-size: 290px 300px;
+    width: 290px;
+    height: 300px;
+    border: 2px solid;
+    margin-top: 23px;
+    
+}
+.name{
+    margin-left: 30px;
+}
